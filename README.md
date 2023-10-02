@@ -1,1 +1,3 @@
 # vacuum
+motor:
+psu:
